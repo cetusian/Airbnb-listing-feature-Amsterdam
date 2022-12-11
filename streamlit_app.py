@@ -20,7 +20,7 @@ dataframe = pd.read_csv(
 )
 
 
-dataframe = dataframe[(dataframe["Price"] <= 500) & (dataframe["Price"] > 0)]
+dataframe = dataframe(dataframe["Price"] <= 500]
 
 
 dataframe["Airbnb Listing ID"] = dataframe["Airbnb Listing ID"].astype(int)
