@@ -3,6 +3,6 @@ A feature for Airbnb that shows the best listings for you based on the locations
 
 The app will show you the the listings that are less than 500 RON/night. (RON is my country's currency)
 
-Try the feature here: https://madalintat-aibnb-listing-feature-amestrdam-streamlit-app-5316a5.streamlit.app/
+Try the feature using Streamlit: https://madalintat-airbnb-listing-feature-amsterda-streamlit-app-e5nbsv.streamlit.app/
 
 This project was created as part of my participation in Python for Data Science by Samir Sen on CoRise.
